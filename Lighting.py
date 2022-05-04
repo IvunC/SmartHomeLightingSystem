@@ -9,14 +9,14 @@ from dateutil import parser
 
 #configuring firebase
 config = {
-  "apiKey": "AIzaSyA_4yKZbVoLD3MorPCiTEBH3Uszujip_g",
-  "authDomain": "smarthome-lighting.firebaseapp.com",
-  "databaseURL": "https://smarthome-lighting-default-rtdb.firebaseio.com",
-  "projectId": "smarthome-lighting",
-  "storageBucket": "smarthome-lighting.appspot.com",
-  "messagingSenderId": "727516464300",
-  "appID" : "1:727516464300:web:193e0e0ef022bf27facb09",
-  "measurementId": "G-7DJXTSZZ2Z"
+  "apiKey": "",
+  "authDomain": "",
+  "databaseURL": "",
+  "projectId": "",
+  "storageBucket": "",
+  "messagingSenderId": "",
+  "appID" : "",
+  "measurementId": ""
 };
 
 #function to change bits
