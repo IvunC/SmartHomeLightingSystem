@@ -1,5 +1,6 @@
 # SmartHomeLightingSystem  
 Individual Senior IoT Project  
+Demonstration Video https://www.youtube.com/watch?v=hTrVMsEUrxc&ab_channel=IvanContreras
 
 
 # Features
@@ -18,5 +19,5 @@ Main Screen
 Editing Light
 ![alt text](https://user-images.githubusercontent.com/104869278/166836130-0f2be9b9-6fea-46b4-9c8a-24d5a58d4df7.png)
 
-# Demonstration Video  
-    https://www.youtube.com/watch?v=hTrVMsEUrxc&ab_channel=IvanContreras
+
+    
