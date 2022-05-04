@@ -5,6 +5,8 @@ Individual Senior IoT Project
 # Features
 - Uses Motion sensors and photo light sensors to toggle the lights in a room  
 - Can either use sensors or controlled via a switch automatically  
+- Change light levels needed to toggle lights
+- Change timeout value which is time lights stay on after no motion is detected anymore
 - Lights are real-time monitored and toggled on the mobile application  
 - Vacation mode uses algorithm to turn on and off lights while residents are on vacation to emulate house activity  
 - Sentry mode is toggled on top of vacation mode, if motion inside of the house is detected, the homeowner will be notified  
